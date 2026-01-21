@@ -1,0 +1,13 @@
+# Bỏ qua thư mục build của PyInstaller
+build/
+dist/
+*.spec
+
+# Bỏ qua file ảo của Python
+__pycache__/
+*.pyc
+
+# Bỏ qua file EXE và FFmpeg (Nặng, không nên up lên code)
+*.exe
+ffmpeg.exe
+Downloads/
