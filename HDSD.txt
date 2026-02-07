@@ -1,0 +1,1 @@
+Nếu lỗi, sử dụng lệnh này trong PS: py -3.11 -m pip install --upgrade yt-dlp
